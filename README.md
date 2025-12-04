@@ -6,11 +6,11 @@ This repo is meant as a hands-on learning & practical implementation hub for fin
 
 ✨ What this Repository Contains
 Section	Description
-🔹 BERT Fine-Tuning for Text Classification	Finetuning BERT for a classification task (sentiment/topic/medical text etc.). Covers preprocessing, training loop, evaluation metrics.
-🔹 LLM Fine-Tuning using LoRA (Ollama/LLaMA-2)	Parameter-efficient fine-tuning for LLaMA-2 using LoRA on a medical dataset.
-🔹 DeepSeek Fine-Tuning (SFT + QLoRA)	Training DeepSeek model with instruction datasets + unsloth for fast memory-efficient training.
-🔹 Embedding Fine-Tuning	Improving vector representations for downstream retrieval ranking tasks.
-🔹 CLIP Embedding Fine-Tuning for Retrieval (Re-Ranking)	Enhancing CLIP embeddings to improve vector similarity search & RAG quality.
+-  BERT Fine-Tuning for Text Classification	Finetuning BERT for a classification task (sentiment/topic/medical text etc.). Covers preprocessing, training loop, evaluation metrics.
+-  LLM Fine-Tuning using LoRA (Ollama/LLaMA-2)	Parameter-efficient fine-tuning for LLaMA-2 using LoRA on a medical dataset.
+-  DeepSeek Fine-Tuning (SFT + QLoRA)	Training DeepSeek model with instruction datasets + unsloth for fast memory-efficient training.
+-  Embedding Fine-Tuning	Improving vector representations for downstream retrieval ranking tasks.
+-  CLIP Embedding Fine-Tuning for Retrieval (Re-Ranking)	Enhancing CLIP embeddings to improve vector similarity search & RAG quality.
 
 All implementations are in Jupyter Notebooks, step-by-step, beginner-friendly with code + explanation.
 
